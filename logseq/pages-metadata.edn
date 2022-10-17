@@ -48,10 +48,10 @@
   :block/updated-at 1665837762300}
  {:block/name "github",
   :block/created-at 1665946580365,
-  :block/updated-at 1665946628343}
+  :block/updated-at 1666015119559}
  {:block/name "github/action",
   :block/created-at 1665947058589,
-  :block/updated-at 1665947058589}
+  :block/updated-at 1666014960592}
  {:block/name "in-progress",
   :block/created-at 1665837762300,
   :block/updated-at 1665837762300}
@@ -66,7 +66,7 @@
   :block/updated-at 1665837762300}
  {:block/name "leetcode",
   :block/created-at 1665936130305,
-  :block/updated-at 1665938012804}
+  :block/updated-at 1666015217056}
  {:block/name "logseq",
   :block/created-at 1665837219663,
   :block/updated-at 1665936667223}
@@ -81,7 +81,7 @@
   :block/updated-at 1665979029248}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665936048443,
-  :block/updated-at 1666001480029}
+  :block/updated-at 1666014892951}
  {:block/name "oct 18th, 2022",
   :block/created-at 1665975367887,
   :block/updated-at 1665975395462}
@@ -97,6 +97,9 @@
  {:block/name "readme",
   :block/created-at 1665938063311,
   :block/updated-at 1665938785760}
+ {:block/name "skill",
+  :block/created-at 1666014960590,
+  :block/updated-at 1666014960590}
  {:block/name "tags",
   :block/created-at 1665888933041,
   :block/updated-at 1665978504580}

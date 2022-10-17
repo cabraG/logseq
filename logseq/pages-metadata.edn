@@ -130,9 +130,6 @@
  {:block/name "website",
   :block/created-at 1665936382130,
   :block/updated-at 1665936382130}
- {:block/name "一款**大纲+双链+本地储存+github储存+注重用户数据隐私安全的笔记软件**。",
-  :block/created-at 1666015325964,
-  :block/updated-at 1666015325964}
  {:block/name "导航",
   :block/created-at 1665938779866,
   :block/updated-at 1665938779866}

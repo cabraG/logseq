@@ -5,6 +5,6 @@ tags:: #导航
 	- ### [[app]]
 		- [[logseq]]
 	- ### [[program language]]
-		- [[java]]
+		- [[Java]]
 	- ### [[leetcode]]
 	-

@@ -28,7 +28,7 @@ jobs:
       # - name: Inject Script
       # run: sed -i "s@</body>@$( cat logseq/inject.html | tr '\n' ' ' | sed 's@&@\\&@g' )</body>@"  www/index.html
       - name: add a nojekyll file
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll # && cp -f $GITHUB_WORKSPACE/main.js $GITHUB_WORKSPACE/www/static/js/main.js
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll  && cp -f $GITHUB_WORKSPACE/main.js $GITHUB_WORKSPACE/www/static/js/main.js
       - name: Deploy  
         uses: JamesIves/github-pages-deploy-action@v4
         with:

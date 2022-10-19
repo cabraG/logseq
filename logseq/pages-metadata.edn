@@ -75,7 +75,7 @@
   :block/updated-at 1665837762300}
  {:block/name "oct 15th, 2022",
   :block/created-at 1665837191786,
-  :block/updated-at 1665978136463}
+  :block/updated-at 1666089007309}
  {:block/name "oct 16th, 2022",
   :block/created-at 1665887080488,
   :block/updated-at 1665979029248}
@@ -84,7 +84,10 @@
   :block/updated-at 1666029758407}
  {:block/name "oct 18th, 2022",
   :block/created-at 1665975367887,
-  :block/updated-at 1665975395462}
+  :block/updated-at 1666110080855}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666108851305,
+  :block/updated-at 1666110082139}
  {:block/name "program language",
   :block/created-at 1665936266141,
   :block/updated-at 1665936266141}
@@ -111,13 +114,16 @@
   :block/updated-at 1665837762300}
  {:block/name "type",
   :block/created-at 1665936224041,
-  :block/updated-at 1665936224041}
+  :block/updated-at 1666095306920}
  {:block/name "url",
   :block/created-at 1665936424926,
   :block/updated-at 1665936424926}
  {:block/name "vercel",
   :block/created-at 1665978297771,
   :block/updated-at 1665978297771}
+ {:block/name "vercel上",
+  :block/created-at 1666110054983,
+  :block/updated-at 1666110054983}
  {:block/name "wait",
   :block/created-at 1665837762300,
   :block/updated-at 1665837762300}
